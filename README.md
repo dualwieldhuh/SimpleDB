@@ -9,6 +9,7 @@ You will need to install :
 - Colorama
 - OS
 - Random 
+
 After you installed all of them, you can just run the program peacefully!
 ### Database Result
 ```json
