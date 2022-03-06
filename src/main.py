@@ -1,4 +1,4 @@
-# SimpleDB, created by Aspire
+# SimpleDB, created by NanoX37
 # The purpose of this project was to test out how good is the JSON system was in the Python.
 # You can apply this to your Discord Bot or any of your Python program.
 
@@ -46,7 +46,7 @@ def remove_database(username):
 def main():
     print("""
 =====================================
- SimpleDB - Created by : Aspire#0007
+ SimpleDB - Created by : NanoX37
    -- Please take a choice here! --
    1.) Create database
    2.) Remove database
