@@ -18,4 +18,4 @@ After you installed all of them, you can just run the program peacefully!
 ^ That is the result of when you succesfully created the database. You can actually implement this program to a whole new level, such as managing user database in your Discord bot.
 # Contact Me
 If you have any problem while using the program, feel free to contact me on Discord, i will try my best to help you!
-- Discord : Aspire#0007
+- Discord : func#0001
